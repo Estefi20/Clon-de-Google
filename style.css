@@ -1,0 +1,115 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    padding: opx;
+    margin: 0px;
+}
+
+header {
+
+    min-height: 10vh;
+    font-size: 14;
+}
+
+main {
+    text-align: center;
+    min-height: 75vh;
+    font-size: 14;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer {
+    font-size: 14;
+
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+footer ul {
+    display: inline-block;
+
+}
+
+header ul {
+    text-align: end;
+
+
+}
+
+body {
+    background-image: url(https://wallpapers.com/images/hd/google-pixel-beautiful-scenery-e48uoa03bv7av62f.jpg);
+}
+
+.imagenpp {
+    padding: 0px;
+    margin: 0px;
+    width: 25px;
+    height: 25px;
+    ;
+    background-color: white;
+    border: none;
+}
+
+#logo {
+    margin: 14px;
+
+}
+
+#buscador {
+    width: 40vw;
+    min-height: 50px;
+    border: 1px solid gainsboro;
+    border-radius: 25px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+#contenedor-buscador {
+    display: flex;
+    justify-content: center;
+}
+
+#buscador input {
+    flex-grow: 1;
+    outline: none;
+    border: none;
+}
+
+#menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+#botonones-busqueda button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    /* Margen: Izq-Der Arr-Abj-*/
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    /* Pasas mouse encima se convierte en una mano*/
+    cursor: pointer;
+    user-select: none;
+}
+#botones-busqueda button:hover{
+    border: 1px solid #626262;
+}
