@@ -14,3 +14,7 @@ Este proyecto implicó la creación de un sitio web que imita la apariencia de G
 
 * Sección de inicio.
 ![Sección Yo](google.png)
+
+- Créditos
+
+* Agradezco al curso de Technolochicas PRO
