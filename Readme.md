@@ -13,7 +13,7 @@ Este proyecto implicó la creación de un sitio web que imita la apariencia de G
 - Capturas de pantalla
 
 * Sección de inicio.
-![Sección Yo](google.png)
+![Sección Yo](captura.png)
 
 - Créditos
 
